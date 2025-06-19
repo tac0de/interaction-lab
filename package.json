@@ -1,0 +1,28 @@
+{
+  "name": "interaction-lab",
+  "version": "1.0.0",
+  "description": "인터랙션 마스터를 위한 실습 중심 프로젝트입니다.   스크롤을 시작으로, 클릭, 드래그, 마우스, 애니메이션 등 **모든 웹 인터랙션의 핵심 로직**을 컴포넌트화하여 배웁니다.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tac0de/interaction-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tac0de/interaction-lab/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/tac0de/interaction-lab#readme",
+  "devDependencies": {
+    "postcss": "^8.5.6",
+    "postcss-preset-env": "^10.2.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
