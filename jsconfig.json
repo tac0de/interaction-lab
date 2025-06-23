@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@kit/*": ["scripts/interaction-kit/*"],
+      "@styles/*": ["styles/*"],
+      "@lessons/*": ["lessons/*"]
+    }
+  }
+}
